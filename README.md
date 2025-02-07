@@ -114,6 +114,5 @@ This project is open-source and free to use under the MIT License.
 
 ---
 
-### **Author**: Your Name (Replace with your GitHub username)
-**GitHub Repository**: [Your Repository Link Here]
+### **Author**: Shaldonbarnes10
 
